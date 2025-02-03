@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-My name is Eliana Rodrigues, and here you can follow my adventure in the tech word. I currently work as SR Data Logistics Analyst at Madeira Madeira.
-My Skills involve businees data analysis, SQL for data analysis and Pythoh (i do bots too).
-
 • Do or debug, there is no try. - Yoda 
 
 ## 🚀 Expertise
